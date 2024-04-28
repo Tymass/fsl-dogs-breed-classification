@@ -5,7 +5,6 @@ The code shown is an excerpt from my engineering thesis, the abstract of which i
 ### Table of contents
  - [Abstract](#abstract)
  - [Project Structure](#project-structure)
- - []()
 
 ## Abstract
 
