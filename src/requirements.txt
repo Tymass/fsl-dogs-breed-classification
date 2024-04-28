@@ -1,0 +1,11 @@
+h5py
+scipy
+numpy
+Pillow
+matplotlib
+seaborn
+tqdm
+torch
+torchvision
+pytorch-lightning>=1.4
+tensorboard
